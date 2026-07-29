@@ -116,7 +116,7 @@ function Home() {
             ABOUT US
           </p>
 
-          <h2>SVTech Networks</h2>
+          <h2>SVTECH NETWORKS</h2>
 
           <p>
             SVTech Networks Private Limited is a leading telecom engineering
